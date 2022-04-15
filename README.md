@@ -1,4 +1,4 @@
-### Olá! Sou Miguel Freitas, cursando Automação Industrial na instituição federal CEFET/RJ e aprendiz na programação!
+### Olá! Sou Miguel Freitas, estou cursando Automação Industrial na instituição federal CEFET/RJ e aprendiz na programação!
 <div align="center">
   <a href="https://github.com/MiguelRFreitas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MiguelRFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
